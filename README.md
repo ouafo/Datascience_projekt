@@ -21,7 +21,6 @@ Ziel dieses Projekts ist die Entwicklung eines datengetriebenen Modells zur Vorh
 ## Projektstruktur (Kann bei Bedarf geändert werden)
 - `data/` – Datensätze und aufbereitete Daten
 - `notebooks/` – Datenanalyse und Modellversuche
-- `src/` – Wiederverwendbarer Python-Code
 - `models/` – Trainierte Modelle
 - `README.md` – Projektdokumentation
 
