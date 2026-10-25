@@ -89,7 +89,7 @@
 **Beschreibung:** Beginn des Beschäftigungsverhältnisses (Datum) bzw. Beschäftigungsdauer in Jahren.
 
 **Notizpunkte:**
-- EmployedFor numerisch aufbereiten.
+- EmployedFor (in Jahren) numerisch aufbereiten. Seit wann ist der Kunde beschäftigt (Betrachtungsjahr 2022)?
 
 ### `ETP` & `PEP`
 
