@@ -74,7 +74,7 @@
 
 ### `TargetGroup`
 
-**Beschreibung:** Intern zugewiesene Zielgruppe (Focus vs. Extended).
+**Beschreibung:** Intern zugewiesene Zielgruppe (Focus vs. Extended). Gehört der Kunde der Zielgruppe der Bank zu?
 
 ### `SourceMarket`
 
