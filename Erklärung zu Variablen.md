@@ -172,7 +172,7 @@
 
 ---
 
-# F. Duplikate & Datenstruktur (Erkenntnisse aus Betreuer-Feedback)
+# F. Duplikate & Datenstruktur
 
 ### Kunden-IDs
 
